@@ -1,2 +1,2 @@
-# Failed
-Gagal.js
+# Penasaran kan
+# Line Only (Bot Line)
