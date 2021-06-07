@@ -2,9 +2,8 @@
 # Line Only (Bot Line)
 
 # License Readme.md
-**License By LanzVian 2020 ©** [](https://google.com), released under the MIT License.
-Authored and maintained.
-
-<p align="center">
-  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FLanzVian%2FFailed?ref=badge_large"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FLanzVian%2FFailed.svg?type=large" />
+<p align="center" >
+**License By LanzVian 2020 ©** [copyright license policy](https://dgip.go.id),Semua File tertera Dimiliki oleh LanzVian.
+Tidak ada unsur pengambilan data milik orang lain.
+Bebas di gunakan untuk kepentingan pribadi yang tidak bersifat kejahatan.
 </p>
