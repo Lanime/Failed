@@ -1,5 +1,9 @@
-# Penasaran kan
-# Line Only (Bot Line)
+# LanzVian Failed Bot Discord
+
+<p align="center">
+  <a href="https://github.com/LanzVian"><img title="Author" src="https://img.shields.io/badge/Author-LanzVian-red.svg?style=for-the-badge&logo=github" /></a>
+</p>
+# Gak Failed Beneran
 
 # License Readme.md
 
