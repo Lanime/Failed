@@ -1,10 +1,10 @@
-# LanzVian Failed Bot Discord
+# LanzVian Bot
 
 <p align="center">
   <a href="https://github.com/LanzVian"><img title="Author" src="https://img.shields.io/badge/Author-LanzVian-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
-# Gak Failed Beneran
+# LanzBot
 
 # NOTE
 
