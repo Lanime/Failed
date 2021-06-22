@@ -1,0 +1,31 @@
+{
+  "name": "Bobo",
+  "version": "0.0.1",
+  "description": "Cyka",
+  "main": "lanz.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lanz.js"
+  },
+  "author": "lanzvian",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1",
+    "axios": "^0.21.1",
+    "figlet": "^1.5.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LanzVian/Bobo"
+  },
+  "bugs": {
+    "url": "https://github.com/LanzVian/Bobo/issues"
+  },
+  "homepage": "https://github.com/LanzVian/Bobo#readme"
+}
